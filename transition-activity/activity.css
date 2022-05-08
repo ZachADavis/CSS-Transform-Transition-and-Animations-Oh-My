@@ -1,1 +1,6 @@
+button {
+    background-color: ghostwhite;
+    transition: background-color, color 2s ease;
+    border: none;
+}
 
